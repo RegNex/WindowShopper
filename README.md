@@ -15,6 +15,8 @@ An IOS App that calculates hours needed to earn a given amount.
 
 <img align="left" src="https://raw.githubusercontent.com/RegNex/WindowShopper/master/screenshots/screen_3.png" height="500"/>
 
+<img src="https://raw.githubusercontent.com/RegNex/WindowShopper/master/screenshots/screen_4.png" height="500"/>
+
 
 ## Getting Started
 
